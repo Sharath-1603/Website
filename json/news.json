@@ -1,0 +1,122 @@
+[
+  {
+      "id": "1",
+      "img": "imgs/60581087.jpg",
+      "author": "Cormac McCarthy",
+      "title": "The Passenger",
+      "price": "&#8377; 360",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "2",
+      "img": "imgs/9780593420317_trust.jpg",
+      "author": "Hernan Diaz",
+      "title": "Trust",
+      "price": "&#8377; 720",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "3",
+      "img": "imgs/71S+zKJpVvS._AC_UF1000,1000_QL80_.jpg",
+      "author": "Andy Weir",
+      "title": "Project Hail Mary",
+      "price": "&#8377; 450",
+      "discount": "",
+      "sale": "",
+      "rating": 4
+  },
+
+  {
+      "id": "4",
+      "img": "imgs/murder-on-lake-garda.jpg",
+      "author": "Tom Hindle",
+      "title": "Murder on Lake Garda",
+      "price": "&#8377; 210",
+      "discount": "",
+      "sale": "",
+      "rating": 2
+  },
+
+  {
+      "id": "5",
+      "img": "imgs/43890641.jpg",
+      "author": "Maggie O'Farrell",
+      "title": "Hamnet",
+      "price": "&#8377; 560",
+      "discount": "",
+      "sale": "",
+      "rating": 4
+  },
+
+  {
+      "id": "6",
+      "img": "imgs/711oRJozzaL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Douglas Stuart",
+      "title": "Shuggie Bain",
+      "price": "&#8377; 550",
+      "discount": "",
+      "sale": "",
+      "rating": 3
+  },
+
+  {
+      "id": "7",
+      "img": "imgs/918DFDx5ZRL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Barbara Kingsolver",
+      "title": "Demon Copperhead",
+      "price": "&#8377; 885",
+      "discount": "",
+      "sale": "",
+      "rating": 3
+  },
+
+  {
+      "id": "8",
+      "img": "imgs/61OpPUwixvL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Balsam Karam",
+      "title": "The Singularity",
+      "price": "&#8377; 320",
+      "discount": "",
+      "sale": "",
+      "rating": 2
+  },
+
+  {
+      "id": "9",
+      "img": "imgs/517438780ab6f2ad55b4ee48ce844aae.jpg",
+      "author": "Isaac Asimov",
+      "title": "Foundation",
+      "price": "&#8377; 390",
+      "discount": "",
+      "sale": "",
+      "rating": 4
+  },
+
+  {
+      "id": "10",
+      "img": "imgs/InPatagonia.jpg",
+      "author": "Bruce Chatwin",
+      "title": "In Patagonia",
+      "price": "&#8377; 950",
+      "discount": "",
+      "sale": "",
+      "rating": 3
+  },
+
+  {
+      "id": "11",
+      "img": "imgs/71ANvymikVL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Adam Smith",
+      "title": "The Wealth of Nations",
+      "price": "&#8377; 630",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  }
+]

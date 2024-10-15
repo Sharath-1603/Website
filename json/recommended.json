@@ -1,0 +1,122 @@
+[
+  {
+      "id": "1",
+      "img": "imgs/33.jpg",
+      "author": "J.R.R. Tolkien",
+      "title": "The Lord of the Rings",
+      "price": "&#8377; 750",
+      "discount": "&#8377; 840",
+      "sale": "-20%",
+      "rating": 5
+  },
+
+  {
+      "id": "2",
+      "img": "imgs/91MtImlhRSL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Brandon Sanderson",
+      "title": "Mistborn",
+      "price": "&#8377; 490",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "3",
+      "img": "imgs/4261a6c2-015b-11ef-9329-2d40acfaa7ba_1713886950158.avif",
+      "author": "Frank Herbert",
+      "title": "Dune",
+      "price": "&#8377; 810",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "4",
+      "img": "imgs/71tltUI6cXL._AC_UF1000,1000_QL80_.jpg",
+      "author": "King Stephen",
+      "title": "Outsider",
+      "price": "&#8377; 580",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "5",
+      "img": "imgs/71un2hI4mcL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Suzanne Collins",
+      "title": "The Hunger Games",
+      "price": "&#8377; 350",
+      "discount": "&#8377; 400",
+      "sale": "-30%",
+      "rating": 4
+  },
+
+  {
+      "id": "6",
+      "img": "imgs/91A+KsUVJFL._AC_UL210_SR210,210_.jpg",
+      "author": "King Stephen",
+      "title": "Holly",
+      "price": "&#8377; 900",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "7",
+      "img": "imgs/watchmen-2019-edition-original-imagh22te9pyu8cr.webp",
+      "author": "Alan Moore",
+      "title": "Watchmen",
+      "price": "&#8377; 1200",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  },
+
+  {
+      "id": "8",
+      "img": "imgs/81FPzmB5fgL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Paulo Coelho",
+      "title": "The Alchemist",
+      "price": "&#8377; 420",
+      "discount": "&#8377; 480",
+      "sale": "-25%",
+      "rating": 5
+  },
+
+  {
+      "id": "9",
+      "img": "imgs/91yZPqf93XL._UF1000,1000_QL80_.jpg",
+      "author": "E.B. White",
+      "title": "Charlotte's Web",
+      "price": "&#8377; 250",
+      "discount": "",
+      "sale": "",
+      "rating": 4
+  },
+
+  {
+      "id": "10",
+      "img": "imgs/81NSb9Jy0HL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Walter Isaacson",
+      "title": "Steve Jobs",
+      "price": "&#8377; 840",
+      "discount": "",
+      "sale": "",
+      "rating": 4
+  },
+
+  {
+      "id": "11",
+      "img": "imgs/gone-girl-original-imah2f66zbfvhg4e.webp",
+      "author": "Gillian Flynn",
+      "title": "Gone Girl",
+      "price": "&#8377; 705",
+      "discount": "",
+      "sale": "",
+      "rating": 5
+  }
+]

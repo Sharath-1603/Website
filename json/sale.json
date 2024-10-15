@@ -1,0 +1,122 @@
+[
+  {
+      "id": "1",
+      "img": "imgs/il_570xN.884595075_4g7l.webp",
+      "author": "William Gibson",
+      "title": "Neuromancer",
+      "price": "&#8377; 350",
+      "discount": "&#8377; 600",
+      "sale": "-40%",
+      "rating": 5
+  },
+
+  {
+      "id": "2",
+      "img": "imgs/thebigsleep.jpg",
+      "author": "Raymond Chandler",
+      "title": "The Big Sleep",
+      "price": "&#8377; 540",
+      "discount": "&#8377; 780",
+      "sale": "-30%",
+      "rating": 5
+  },
+
+  {
+      "id": "3",
+      "img": "imgs/81FPzmB5fgL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Paulo Coelho",
+      "title": "The Alchemist",
+      "price": "&#8377; 420",
+      "discount": "&#8377; 480",
+      "sale": "-25%",
+      "rating": 5
+  },
+
+  {
+      "id": "4",
+      "img": "imgs/512qMJN12WL.jpg",
+      "author": "Jim McCorkle",
+      "title": "Old Crimes",
+      "price": "&#8377; 250",
+      "discount": "&#8377; 290",
+      "sale": "-30%",
+      "rating": 4
+  },
+
+  {
+      "id": "5",
+      "img": "imgs/33.jpg",
+      "author": "J.R.R. Tolkien",
+      "title": "The Lord of the Rings",
+      "price": "&#8377; 750",
+      "discount": "&#8377; 840",
+      "sale": "-20%",
+      "rating": 5
+  },
+
+  {
+      "id": "6",
+      "img": "imgs/71un2hI4mcL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Suzanne Collins",
+      "title": "The Hunger Games",
+      "price": "&#8377; 350",
+      "discount": "&#8377; 400",
+      "sale": "-30%",
+      "rating": 4
+  },
+
+  {
+      "id": "7",
+      "img": "imgs/Hyperion_cover.jpg",
+      "author": "Simmons Dan",
+      "title": "Hyperion",
+      "price": "&#8377; 400",
+      "discount": "&#8377; 480",
+      "sale": "-20%",
+      "rating": 5
+  },
+
+  {
+      "id": "8",
+      "img": "imgs/71iWxmst49L._AC_UL600_SR600,600_.jpg",
+      "author": "Isaacson Walter",
+      "title": "Elon Musk",
+      "price": "&#8377; 1150",
+      "discount": "&#8377; 1500",
+      "sale": "-30%",
+      "rating": 5
+  },
+
+  {
+      "id": "9",
+      "img": "imgs/images.jpeg",
+      "author": "Steven D. Levitt and Stephen J. Dubner",
+      "title": "Freakonomics",
+      "price": "&#8377; 380",
+      "discount": "&#8377; 435",
+      "sale": "-20%",
+      "rating": 5
+  },
+
+  {
+      "id": "10",
+      "img": "imgs/intothewild71EW6GswfuL._UF1000,1000_QL80_.jpg",
+      "author": "Jon Krakauer",
+      "title": "Into the Wild",
+      "price": "&#8377; 190",
+      "discount": "&#8377; 320",
+      "sale": "-40%",
+      "rating": 4
+  },
+
+  {
+      "id": "11",
+      "img": "imgs/81YVtEM-wlL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Nicholos Sparks",
+      "title": "The Rescue",
+      "price": "&#8377; 820",
+      "discount": "&#8377; 840",
+      "sale": "-10%",
+      "rating": 4
+  }
+]
