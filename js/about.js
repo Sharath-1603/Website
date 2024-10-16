@@ -8,8 +8,6 @@ const about = new Swiper('.reviews-swiper', {
   loop: true,
   grabCursor: 'true',
   spaceBetween: 30,
-  fade: 'true',
-  centerSlide: 'true',
   direction: 'horizontal',
 
   // Pagination

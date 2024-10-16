@@ -39,7 +39,7 @@ body {
     padding-right: 10%;
     font-size: 1.1em;
 }
-.row .content .btn {
+/* .row .content .btn {
     padding: 15px 25px;
     border: 1px solid #FE5A5A;
     width: max-content;
@@ -55,7 +55,7 @@ body {
     background: #FE5A5A;
     color: #fff;
     transform: translateY(-3px);
-}
+} */
 .about-container .row .image img {
     width: 760px;
     height: 100%;
