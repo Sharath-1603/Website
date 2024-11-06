@@ -39,23 +39,7 @@ body {
     padding-right: 10%;
     font-size: 1.1em;
 }
-/* .row .content .btn {
-    padding: 15px 25px;
-    border: 1px solid #FE5A5A;
-    width: max-content;
-    margin: 20px 23px;
-    text-decoration: none;
-    color: #FE5A5A;
-    border-radius: 2px;
-    font-size: 1.1em;
-    font-weight: 500;
-    transition: .4s ease;
-}
-.row .content .btn:hover {
-    background: #FE5A5A;
-    color: #fff;
-    transform: translateY(-3px);
-} */
+
 .about-container .row .image img {
     width: 760px;
     height: 100%;

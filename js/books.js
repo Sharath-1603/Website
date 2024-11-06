@@ -29,7 +29,7 @@ fetch("json/all.json").then(function(response){
             <div class="discount">${product.discount}</div>
           </div>
           <div class="rating">${product.rating}</div>
-          <div class="btn"><button class="add-cart-btn"><i class="fa-solid fa-cart-plus"></i> Dodaj do koszyka</button></div>
+          <div class="btn"><button class="add-cart-btn"><i class="fa-solid fa-cart-plus"></i>Add to Cart</button></div>
         </div>
 		`;
 
